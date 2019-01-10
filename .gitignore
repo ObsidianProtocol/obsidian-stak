@@ -30,3 +30,9 @@ cmake-build-debug/
 
 # Thumbnails
 ._*
+# CmakeFiles
+CmakeFiles/
+cmake_install.cmake
+CmakeCache.txt
+install_manifest.txt
+Makefile
